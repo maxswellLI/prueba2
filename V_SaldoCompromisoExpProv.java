@@ -101,6 +101,8 @@ public class   V_SaldoCompromisoExpProv extends ContableBusinessObject {
 		return proveedor
 	}
 	
+	
+	
 
 
 }
